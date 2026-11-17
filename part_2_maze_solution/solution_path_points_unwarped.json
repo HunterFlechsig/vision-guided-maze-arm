@@ -1,8 +1,8 @@
 {
-  "source_corners_json": "/home/hunterf/Coding/Robotics1/part_2_maze_solution/camera_capture_corners.json",
-  "source_path_json": "/home/hunterf/Coding/Robotics1/part_2_maze_solution/solution_path_points.json",
-  "original_image": "/home/hunterf/Coding/Robotics1/part_2_maze_solution/camera_capture.png",
-  "warped_image": "/home/hunterf/Coding/Robotics1/part_2_maze_solution/maze_warp.png",
+  "source_corners_json": "part_2_maze_solution/camera_capture_corners.json",
+  "source_path_json": "part_2_maze_solution/solution_path_points.json",
+  "original_image": "part_2_maze_solution/camera_capture.png",
+  "warped_image": "part_2_maze_solution/maze_warp.png",
   "unwarped_path_pixels": [
     [
       394,
